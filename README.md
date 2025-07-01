@@ -5,10 +5,10 @@ Ces classes sont comme un moule (de cuisine) pour définir ce que représente qu
 
 ## les classes parent et enfant
 
-un classe en PHP, est déclarée avec le mot-chlé `class` ou `final class`.
+<!-- un classe en PHP, est déclarée avec le mot-chlé `class` ou `final class`.
 Afin de l'utiliser, il faudra créer un instace d'elle. Pour cela le lot-clé correspondant est `new`.
 
-Ex -> voir le fichier 'Utilisateur.php' pour la déclaration et 'index.php' pour l'utilisation.
+Ex -> voir le fichier 'Utilisateur.php' pour la déclaration et 'index.php' pour l'utilisation. -->
 
 
 
